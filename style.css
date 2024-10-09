@@ -1,0 +1,37 @@
+#header{
+    margin-left: 42%;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(32, 28, 28);
+    padding: 1% 5% 1% 5%;
+    border-radius: 5px;
+}
+#nav>a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+}
+#about_text{
+    font-size: large;
+    word-spacing: 4px;
+    line-height: 1.2;
+}
+#skill>p{
+    background-color: rgb(229, 230, 229);
+    padding: 13px 13px 13px 13px;
+    border-left: 5px solid black;
+    font-weight: 600;
+    margin-bottom: -12px;
+    border-radius: 3px;
+    font-family:'Times New Roman', Times, serif
+}
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 20px 20px 20px 20px;
+  }
+
+  
